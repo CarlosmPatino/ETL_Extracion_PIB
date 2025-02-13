@@ -1,6 +1,6 @@
 🌍 Pipeline ETL: Extracción del PIB Mundial desde la web
 
-Este proyecto implementa un pipeline ETL (Extract, Transform, Load) automatizado que extrae la lista de todos los países ordenados por su PIB (Producto Interno Bruto) en miles de millones de dólares, según los datos más recientes del Fondo Monetario Internacional (FMI).
+Este proyecto implementa un pipeline ETL (Extract, Transform, Load) automatizado que extrae la lista de todos los países ordenados por su PIB (Producto Interno Bruto) en miles de millones de dólares.
 
 
 
