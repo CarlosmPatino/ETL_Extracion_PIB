@@ -19,7 +19,7 @@ Se ordenan los países según su PIB.
 
 3️⃣ Carga (Load)
 
-Se almacena la información en un archivo CSV 7 una base de datos para su posterior uso y análisis.
+Se almacena la información en un archivo CSV y una base de datos para su posterior uso y análisis.
 
 🛠 Tecnologías Utilizadas
 
